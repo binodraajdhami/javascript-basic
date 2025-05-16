@@ -1,24 +1,26 @@
-Tomorrow Taks
-====================
 # Loop in JS
+====================
+
 # Functions
+====================
+
 # Scope
+====================
 
-# Hoisting
-let numer1;
-console.log("Before assign value: ", numer1);
+    # Hoisting
+    let numer1;
+    console.log("Before assign value: ", numer1);
 
-numer1 = 10;
-console.log("After assign value: ", numer1);
+    numer1 = 10;
+    console.log("After assign value: ", numer1);
 
 # Closer in Functions
 ====================
 
-
-# Arrays
+# Objects
 ====================
 
-# Objects
+# Arrays
 ====================
 
 NodeJS
