@@ -52,6 +52,8 @@ let result2 = askMoney();
 result2
     .then(function (data) {
         console.log("data is: ", data);
+
+        // call another task
     })
     .catch(function (err) {
         console.log("Error is: ", err);
